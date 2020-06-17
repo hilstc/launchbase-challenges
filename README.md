@@ -1,2 +1,2 @@
 # launchbase-desafios-01
-Challenges of the first module of Rocketseat's Launchbase bootcamp.
+Rocketseat's Launchbase bootcamp - Module 01 - Challenges 
